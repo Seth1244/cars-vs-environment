@@ -1,0 +1,93 @@
+body{
+    color: rgb(181, 181, 218);font-size: 25px;font-style:oblique; fill: black;
+    text-align:center;
+}
+body{
+    background-color: rgb(89, 240, 96);
+}
+h2{
+    color:rrgb(80, 23, 134);font-size: 15px;
+
+
+
+}
+
+
+header{
+    background-color: rgb(10,95,21,0.945);font-size: 30px;
+    display:inline-flex
+    position: sticky;
+
+
+}
+
+main{
+    color: rgb(80, 23, 134);font-size: 15px;
+}
+hgroup{
+    text-align: left;
+}
+
+h3{
+    font-size: 20px;font-style: normal;color: rgb(15, 8, 8);
+    vertical-align: middle;
+}
+
+h4{
+    color:rgb(80, 23, 134);
+    
+
+}
+.hgroup{
+    display: flex;
+    min-height: 100vh;
+    fill: bisque;
+    justify-content: center;
+    align-items:center;
+}
+nav id{
+    color: rgb(182, 17, 17);
+}
+
+id{
+    size: 30px;
+}
+
+h1{
+    display: inline;
+    max-width: max-content;
+    margin-left:0%;
+}
+h6{
+    font-size: 15px;
+    color:rgb(16, 1, 1) ;
+}
+
+footer{
+    background-color: rgb(10,95,21,0.945);
+    display:inline-flex;
+}
+#table{
+color-scheme:inherit
+}
+
+*{
+    box-sizing: border-box;
+}
+
+.wrapper
+{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+}
+    
+h5{
+    color: blue;
+    background-color:transparent
+    align:brown;
+}
+
+
+
+    
